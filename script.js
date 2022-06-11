@@ -11,4 +11,5 @@ function removePanelActive(){
     panels.forEach(panel=>{
         panel.classList.remove('active');
     })
+    // comment
 }
